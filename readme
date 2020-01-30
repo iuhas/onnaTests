@@ -1,1 +1,11 @@
-Hello
+Automation Test Strategy
+
+Using python language, selenium and pytest libraries, 
+I created an automation project following the Page Object Model design pattern
+Test cases were created based on the gherking features using Test Driven Development.
+The test cases chosen by me as the most critical were those that required the user to have manager permissions.
+If I had to create a full automation test strategy I would choose to have
+most automated test cases run api calls ( python requests library) and some end to end test cases using selenium.
+
+
+Gherkin Test Cases : https://docs.google.com/spreadsheets/d/1LHcky-eOr9HKGdSe0O9W2a3YxDEHBQdPVXTjT0sUs28/edit?usp=sharing
