@@ -9,3 +9,4 @@ most automated test cases run api calls ( python requests library) and some end 
 
 
 Gherkin Test Cases : https://docs.google.com/spreadsheets/d/1LHcky-eOr9HKGdSe0O9W2a3YxDEHBQdPVXTjT0sUs28/edit?usp=sharing
+Automation strategy and limitations: https://docs.google.com/document/d/1JRiQcuTsBnLBNDlg2timLbAo3BdbqYS3becuAuZ_F9Y/edit?usp=sharing
